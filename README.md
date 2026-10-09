@@ -9,11 +9,12 @@ An all-in-one educational Android app featuring a robust formula database, custo
 * **Test Generator:** Easily construct custom assessments supporting multiple question types, including:
     * Multiple Choice Questions (MCQs)
     * True/False statements
-    * Short Answer prompts
+    * Assertion/Reason Questions
+    * MCQs with multiple correct answers
+    * Match the Column Questions
 * **Formula Database:** A quick-reference library of essential formulas, keeping crucial mathematical and academic data organized and instantly accessible.
 * **Built-in Calculator:** Perform rapid calculations on the fly without ever needing to leave the application environment.
 * **Writing Board & Note Taker:** A dedicated space for digital scratchpad work, drafting proofs, drawing layouts, and keeping organized academic logs.
 
-* ** Privacy & Permissions**
-* **Zero Permissions Requested:** Heurily respects your privacy and system security. It does not require internet access, storage permissions, camera access, or device IDs to function.
-* **100% Local & Offline:** All user profiles, quiz data, and notes are processed and stored strictly on your device. Your data never leaves your environment.
+* **Privacy & Permissions**
+* **Zero Permissions Requested:** Heurily respects your privacy and system security. It does not require storage permissions, camera access, or device IDs to function. It only uses internet permission.
